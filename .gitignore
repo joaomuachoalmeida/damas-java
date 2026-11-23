@@ -1,0 +1,11 @@
+# Ficheiros compilados
+bin/
+out/
+*.class
+
+# Ficheiros do IDE (Eclipse / IntelliJ)
+.idea/
+.settings/
+.classpath
+.project
+*.iml
